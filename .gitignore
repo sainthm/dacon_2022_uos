@@ -2,6 +2,8 @@
 #git .ignore
 ############
 
+.ipynb
+
 .DS_Store
 
 *.pem
